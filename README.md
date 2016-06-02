@@ -5,25 +5,25 @@ The names can be of arabic origin or not.
 ========================================================
 Kalmasoft : http://www.kalmasoft.com/KLEX/adbgivnm.htm
 
-	    Arabic names			           50
+	Arabic names			           	 50
 
-      Famous names			           50
+      	Famous names			           	 50
 
-      Foreign (not arabic) names	290
+      	Foreign (not arabic) names			290
 
-      Surnames			               50
+      	Surnames			               	 50
 
 Behindthename : http://www.behindthename.com/names/usage/arabic 
 
-      Arabic names                394
+      Arabic names                			 394
 
 Supermama : http://supermama.me/ar
 
-      Arabic names                180     
+      Arabic names                			 180     
 
 Speak7 : http://arabic.speak7.com/arabic_names.htm
 
-	    Arabic and foreign names 	 1046	
+	    Arabic and foreign names 	 		 1046	
 
 Arabic-keyboard : http://www.arabic-keyboard.org/arabic-names/
 
@@ -33,28 +33,28 @@ Thearabicstudent : http://www.thearabicstudent.com/2009/06/common-male-names-wri
 
 	A list of the most common male names in the US.
 
-					                        299
+					                  299
 
 	A list of the most common female names in the US.
 
-					                        300
+					                  300
 
-========================================================
+===============================================================
 
-Total					                    2858					
+Total					                 2858					
 
-========================================================
+===============================================================
 
 
 ===============================================================================================================
 
-= Locations :												                                                                          =
+= Locations :												      =
 
-=													                                                                                    =
+=													      =
 
-= BBC : http://www.bbc.com/arabic/learningenglish/2010/08/801016_cojo_arabic_guide5.shtml		                  =
+= BBC : http://www.bbc.com/arabic/learningenglish/2010/08/801016_cojo_arabic_guide5.shtm	              =
 
-=					                        388								                                                          =
+=					                  388						      =
 
 ===============================================================================================================
 
