@@ -1,0 +1,388 @@
+الدولة	Country
+العاصمة	Capital
+افغانستان	Afghanistan
+كابول	Kabul
+البانيا	Albania
+تيرانا	Tirana
+الجزائر	Algeria
+الجزائر   العاصمة	Algiers
+اندورا	Andorra
+اندورا لا   فيلا	Andorra la Vella
+انجولا	Angola
+لواندا	Luanda
+انتيجوا   وباربودا	Antigua &amp;   Barbuda
+سان جونز	Saint     John's
+الارجنتين	Argentina
+بوينس   ايرس(ايريز)	Buenos     Aires
+ارمينيا	Armenia
+يريفان	Yerevan
+استراليا	Australia
+كانبرا	Canberra
+النمسا	Austria
+فيينا	Vienna
+اذربيجان	Azerbaijan
+باكو	Baku
+جزر   البهاما	The Bahamas
+ناساو	Nassau
+البحرين	Bahrain
+المنامة	Manama
+بنجلاديش	Bangladesh
+دكـا	Dhaka
+باربادوس	Barbados
+بريدجتاون	Bridgetown
+بيلا   روسيا	Belarus
+مينسك	Minsk
+بلجيكا	Belgium
+بروكسل	Brussels
+بيليز	Belize
+بلوم بان	Belmopan
+بنين	Benin
+بورتو   نوفو	Porto Novo
+بوتان	Bhutan
+ثيمفو	Thimphu
+بوليفيا	Bolivia
+لاباز	La Paz
+البوسنة   والهرسك	Bosnia &amp; Herzegovina
+سراييفو	Sarajevo
+بوتسوانا	Botswana
+جابورون	Gaborone
+البرازيل	Brazil
+برازيليا	Brasilia
+بروناى	Brunei
+بندر سرى   بيجاوان	Bandar     Seri    Begawan
+بلغاريا	Bulgaria
+صوفيا	Sofia
+بوركينا   فاسو	Burkina     Faso
+واجادوجو	Ouagadougou
+بوروندى	Burundi
+بوجومبورا	Bujumbura
+كمبوديا	Cambodia
+بنوم بنـه	Phnom     Penh
+الكاميرون	Cameroon
+ياوندى	Yaoundé
+كندا	Canada
+اوتاوا	Ottawa
+الرأس   الاخضر	Cape     Verde
+برايا	Praia
+جمهورية   افريقيا   الوسطى	Central     African Republic
+بانجى	Bangui
+تشاد	Chad
+نجامينا	N'Djamena
+شيلى	Chile
+سانتياجو	Santiago
+الصين	China
+بكين	Beijing
+كولمبيا	Colombia
+بوجوتا	Bogota
+جزر   الُقمـــر	Comoros
+مورونى	Moroni
+جمهورية الكونغو	Republic of the Congo
+برازافيل	Brazzaville
+جمهورية   الكونغو   الديمقراطية	Democratic     Republic of the Congo
+كينشاسا	Kinshasa
+كوستاريكا	Costa     Rica
+سان خوسيه	San     Jose
+كوت   ديفوار	Cote     d'Ivoire
+ابيدجان	Abidjan
+كرواتيا	Croatia
+زغرب	Zagreb
+كوبا	Cuba
+هافانا	Havana
+قبرص	Cyprus
+نيقوسيا	Nicosia
+جمهورية   التشيك	Czech Republic
+براغ	Prague
+الدنمارك	Denmark
+كوبنهاجن	Copenhagen
+جيبوتى	Djibouti
+جيبوتى   العاصمة	Djibouti
+دومينيكا	Dominica
+روسيو	Roseau
+الدومينيكان	Dominican     Republic
+سان   دومينجو	Santo     Domingo
+تيمور   الشرقية	East Timor
+ِديلى	Dili
+الاكوادور	Ecuador
+كيتو	Quito
+مصر	Egypt
+القاهرة	Cairo
+السلفادور	El     Salvador
+سان   سلفادور	San     Salvador
+غينيا   الاستوائية	Equatorial     Guinea
+ملابو	Malabo
+اريتريا	Eritrea
+اسمرة	Asmara
+استونيا	Estonia
+تالِن	Tallinn
+اثيوبيا	Ethiopia
+اديس   ابابا	Addis     Ababa
+جزر فيجى	Fiji
+سوفا	Suva
+فنلندا	Finland
+هلسنكى	Helsinki
+فرنسا	France
+باريس	Paris
+الجابون	Gabon
+ليبرفِل	Libreville
+جامبيا	The Gambia
+بانجول	Banjul
+جورجيا	Georgia
+تبِليسى	Tbilisi
+المانيا	Germany
+برلين	Berlin
+غانا	Ghana
+اكرا	Accra
+اليونان	Greece
+اثينا	Athens
+جرانادا	Grenada
+سان جورج	Saint     George's
+جواتيمالا	Guatemala
+جواتيمالا   سيتى	Guatemala     City
+غينيا	Guinea
+كوناكرى	Conakry
+غينيا   بيساو	Guinea Bissau
+بيساو	Bissau
+جويانا	Guyana
+جورج تاون	Georgetown
+هايتى	Haiti
+بورتو   برنس	Port au Prince
+هندوراس	Honduras
+تيجو   سيجالبا	Tegucigalpa
+المجر	Hungary
+بودابست	Budapest
+ايسلندا	Iceland
+ريكيافيك	Reykjavik
+الهند	India
+دلهى	Delhi
+اندونيسيا	Indonesia
+جاكارتا	Jakarta
+ايران	Iran
+طهران	Tehran
+العراق	Iraq
+بغداد	Baghdad
+ايرلندا	Ireland
+دبلن	Dublin
+اسرائيل	Israel
+تل ابيب	Tel Aviv
+ايطاليا	Italy
+روما	Rome
+جاميكا	Jamaica
+كينجستون	Kingston
+اليابان	Japan
+طوكيو	Tokyo
+الاردن	Jordan
+عًـمان	Amman
+كازاخستان	Kazakhstan
+استانة	Astana
+كينيا	Kenya
+نيروبى	Nairobi
+كيريباتى	Kiribati
+تراوا	Tarawa
+كوريا   الشمالية	Korea,   North
+بيونغيانغ	Pyongyang
+كوريا   الجنوبية	Korea,   South
+سول	Seoul
+الكويت	Kuwait
+الكويت   العاصمة	Kuwait City
+قرغيزستان	Kyrgyzstan
+بيشكك	Bishkek
+لاوس	Laos
+فينتيان	Vientiane
+لاتفيا	Latvia
+ريجا	Riga
+ُلبنان	Lebanon
+بيروت	Beirut
+ليسوتو	Lesotho
+ماسيرو	Maseru
+ليبيريا	Liberia
+منروفيا	Monrovia
+ليبيا	Libya
+طرابلس	Tripoli
+ليختنشتاين	Liechtenstein
+فادوز	Vaduz
+ليتوانيا	Lithuania
+فيلنيوس	Vilnius
+لوكسمبورج	Luxembourg
+لوكسمبورج	Luxembourg
+مقدونيا	Macedonia
+سكوبى	Skopje
+مدغشقر	Madagascar
+انتانارييف	Antananarivo
+مالاوى	Malawi
+ليلونجو	Lilongwe
+ماليزيا	Malaysia
+كوالا   لامبور	Kuala     Lumpur
+جزر   المالديف	Maldives
+ميل	Male
+مالى	Mali
+باماكو	Bamako
+جزيرة   مالطا	Malta
+فاليتا	Valletta
+جزر   مارشال	Marshall     Islands
+ماجورو	Majuro
+موريتانيا	Mauritania
+نواكشوط	Nouakchott
+موريشيوس	Mauritius
+بورت لويس	Port     Louis
+المكسيك	Mexico
+مكسيكو   سيتى	Mexico     City
+جزر   مايكرونيزيا	Federated     States of Micronesia
+باليكير	Palikir
+مولدوفيا	Moldova
+شيزيناو	Chisinau
+امارة   موناكو	Monaco
+موناكو	Monaco
+منغوليا	Mongolia
+اولان   باتور	Ulaanbaatar
+مونتنيجرو	Montenegro
+بودجوريسا	Podgorica
+المغرب	Morocco
+الرِباط	Rabat
+موزمبيق	Mozambique
+مَبوتو	Maputo
+ميانمار   (بورما)	Myanmar (Burma)
+بين مانا   (رانجون)	Rangoon but moving to Pyinmana
+ناميبيا	Namibia
+ويندهوك	Windhoek
+ناورو	Nauru
+يارين	no official capital; government offices in Yaren District
+نيبال	Nepal
+كاتمندو	Kathmandu
+هولندا	Netherlands
+امستردام	Amsterdam
+نيوزيلندا	New     Zealand
+ويلينجتون	Wellington
+نيكاراجوا	Nicaragua
+مانجوا	Managua
+النيجر	Niger
+نيامى	Niamey
+نيجيريا	Nigeria
+ابوجا	Abuja
+النرويج	Norway
+اوسلو	Oslo
+سلطنة   عًمان	Oman
+مسقط	Muscat
+باكستان	Pakistan
+اسلام   اباد	Islamabad
+بالو	Palau
+كورور	Koror
+بنما	Panama
+بنما ستى	Panama     City
+بابوا   غينيا   الجديدة	Papua     New Guinea
+بورت   مورزبي	Port     Moresby
+باراجوى	Paraguay
+اسنسيون	Asuncion
+بيرو	Peru
+ليما	Lima
+الفلبين	Philippines
+مانيلا	Manila
+بولندا	Poland
+وارسو	Warsaw
+البرتغال	Portugal
+لشبونة	Lisbon
+قطر	Qatar
+الدوحة	Doha
+رومانيا	Romania
+بوخارست	Bucharest
+روسيا   الاتحادية	Russia
+موسكو	Moscow
+رواندا	Rwanda
+كيجالى	Kigali
+سان كيتس   اند نيفز	Saint     Kitts and Nevis
+باسيتيرى	Basseterre
+سان   لوتشيا	Saint     Lucia
+كاستريس	Castries
+سان فنسن   وجرينادينز	Saint     Vincent and the Grenadines
+كينجستون	Kingstown
+ساموا	Samoa
+ابيا	Apia
+سان   مارينو	San     Marino
+سان   مارينو	San     Marino
+ساوتومى   اند برنسيب	Sao     Tome and Principe
+ساوتومى	Sao Tome
+السعودية	Saudi     Arabia
+الرياض	Riyadh
+السنغال	Senegal
+دكار	Dakar
+صربيا	Serbia
+بلغراد	Belgrade
+جزر سيشل	Seychelles
+فيكتوريا	Victoria
+سيراليون	Sierra     Leone
+فرى تاون	Freetown
+سنغافورة	Singapore
+سنغافورة	Singapore
+سلوفاكيا	Slovakia
+براتسلافا	Bratislava
+سلوفينيا	Slovenia
+لوبليانا	Ljubljana
+جزر   سولومون	Solomon     Islands
+هونيارا	Honiara
+الصومال	Somalia
+مقديشيو	Mogadishu
+جنوب   افريقيا	South     Africa
+بريتوريا	Pretoria (administrative) Cape Town (legislative) Bloemfontein (judiciary)
+إسبانيا	Spain
+مدريد	Madrid
+سريلانكا	Sri     Lanka
+كولومبو	Colombo
+السودان	Sudan
+الخرطوم	Khartoum
+سورينام	Suriname
+باراماريبو	Paramaribo
+سوازيلاند	Swaziland
+إمبابانا	Mbabana
+السويد	Sweden
+استكهولم	Stockholm
+سويسرا	Switzerland
+برن	Bern
+سوريا	Syria
+دمشق	Damascus
+طاجكستان	Tajikistan
+دوشنبه	Dushanbe
+تنزانيا	Tanzania
+دار   السلام	Dar es Salaam
+تايلاند	Thailand
+بانكوك	Bangkok
+توجو	Togo
+لومى	Lome
+تونجا	Tonga
+نوكوالوفا	Nuku'alofa
+ترينداد   وتوباغو	Trinidad     and Tobago
+بورت اوف   سبين	Port     of Spain
+تــــوِنس	Tunisia
+تونس العاصمة	Tunis
+تركيا	Turkey
+انقرة	Ankara
+تركمانستان	Turkmenistan
+عشق آباد	Ashgabat
+توفالو	Tuvalu
+فونا فوتى	Funafuti
+اوغندا	Uganda
+كمبالا	Kampala
+اوكرانيا	Ukraine
+كييف	Kyiv
+الامارات   العربية   المتحدة	United     Arab Emirates
+ابو ظبى	Abu     Dhabi
+المملكة   المتحدة	United     Kingdom
+لندن	London
+الولايات   المتحدة   الامريكية	United     States
+واشنطن	Washington D.C.
+اورجواى	Uruguay
+مونتفيديو	Montevideo
+اوزباكستان	Uzbekistan
+طشقند	Tashkent
+فانواتو	Vanuatu
+بورت فيلا	Port Vila
+الفاتيكان	Vatican     City (Holy Seed)
+فاتيكان   سيتى	Vatican     City
+فنزويلا	Venezuela
+كراكاس	Caracas
+فيتنام	Vietnam
+هانوى	Hanoi
+اليمن	Yemen
+صنعاء	Sanaa
+زامبيا	Zambia
+لوساكا	Lusaka
+زيمبابوى	Zimbabwe
+هرارى	Harare
