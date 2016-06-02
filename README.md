@@ -5,21 +5,18 @@ The names can be of arabic origin or not.
 ========================================================
 Kalmasoft : http://www.kalmasoft.com/KLEX/adbgivnm.htm
 
-	Arabic names			           	 50
-
-      	Famous names			           	 50
-
-      	Foreign (not arabic) names			290
-
-      	Surnames			               	 50
+      	Arabic names				 50
+      	Famous names	                 50
+      	Foreign (not arabic) names		290
+      	Surnames				 50
 
 Behindthename : http://www.behindthename.com/names/usage/arabic 
 
-      Arabic names                			 394
+      Arabic names                	394
 
 Supermama : http://supermama.me/ar
 
-      Arabic names                			 180     
+      Arabic names                	180     
 
 Speak7 : http://arabic.speak7.com/arabic_names.htm
 
@@ -41,20 +38,19 @@ Thearabicstudent : http://www.thearabicstudent.com/2009/06/common-male-names-wri
 
 ===============================================================
 
-Total					                 2858					
+Total					                 
+							 2858					
 
 ===============================================================
 
 
 ===============================================================================================================
 
-= Locations :												      =
+Locations :												      
 
-=													      =
+	BBC : http://www.bbc.com/arabic/learningenglish/2010/08/801016_cojo_arabic_guide5.shtm	              
 
-= BBC : http://www.bbc.com/arabic/learningenglish/2010/08/801016_cojo_arabic_guide5.shtm	              =
-
-=					                  388						      =
+					                  388						      
 
 ===============================================================================================================
 
