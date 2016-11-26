@@ -2,6 +2,15 @@ NERArDict is a dictionary of proper names written in arabic and their transcript
 
 The names can be of arabic origin or not.
 
+If you use NERAr for research purpose, please use the following citation:
+
+	@misc{gahbiche2016nerardict,
+		title = {NERArDict},
+		author = {Souhir Gahbiche-Braham},
+		year = {2016},
+		howpublished= {\url{https://github.com/SouhirG/NERArDict}},
+	}
+
 ========================================================
 Kalmasoft : http://www.kalmasoft.com/KLEX/adbgivnm.htm
 
